@@ -89,6 +89,13 @@ p {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.img-flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .form-group {
